@@ -1,0 +1,64 @@
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Power Platform / Exports
+# =========================
+# Temporary export files
+*.tmp
+*.bak
+
+# Optional: ignore large exports if needed
+# (uncomment if you don't want to track them)
+# powerapps/exports/*.zip
+# powerapps/exports/*.msapp
+
+# =========================
+# SharePoint / Data Dumps
+# =========================
+*.csv
+*.xlsx
+*.json
+
+# =========================
+# Images (optional)
+# =========================
+# If you ever add raw/unprocessed images
+# screenshots/raw/
+
+# =========================
+# Node (if ever used later)
+# =========================
+node_modules/
+dist/
+build/
+
+# =========================
+# Misc
+# =========================
+*.zip
+*.rar
+*.7z
