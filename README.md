@@ -188,29 +188,31 @@ Detailed decisions:
 
 ## Repository Structure
 
+```text
 hr-inventory-manager/
 │
 ├── powerapps/
-│ ├── exports/
-│ │ └── hr-inventory-manager.msapp
-│ └── screenshots/
-│ ├── normal-view.png
-│ └── admin-view.png
+│   ├── exports/
+│   │   └── hr-inventory-manager.msapp
+│   └── screenshots/
+│       ├── normal-view.png
+│       └── admin-view.png
 │
 ├── powerautomate/
-│ └── README.md
+│   └── README.md
 │
 ├── sharepoint/
-│ └── schema.md
+│   └── schema.md
 │
 ├── docs/
-│ ├── architecture.md
-│ ├── process-flow.md
-│ └── design-decisions.md
+│   ├── architecture.md
+│   ├── process-flow.md
+│   └── design-decisions.md
 │
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ---
 
